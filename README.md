@@ -3,3 +3,6 @@
 # Skull
 
 The Pattern Library for  WordToken.com
+
+### Install
+``` npm i skull-token --save ```
