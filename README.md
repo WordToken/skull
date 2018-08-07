@@ -1,3 +1,4 @@
 # Skull
 
-![Alt text](src/skull-vintage-tattoo-by_vexels.svg?raw=true "Title")
+
+<img src="src/skull-vintage-tattoo-by_vexels.svg" width="150px"/>
